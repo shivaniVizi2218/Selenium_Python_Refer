@@ -1,0 +1,1188 @@
+06/26/2024 01:16:25 PM - INFO -  Custom_code : Element found with locator: dispatcherNameMain and  locatorType: id
+06/26/2024 01:16:25 PM - INFO -  Custom_code : Clicked on element with locator: dispatcherNameMain locatorType: id
+06/26/2024 01:16:30 PM - INFO -  Custom_code : Element found with locator: //*[@class='facilitySelectContainer']//span//button and  locatorType: xpath
+06/26/2024 01:16:31 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='facilitySelectContainer']//span//button locatorType: xpath
+06/26/2024 01:16:32 PM - INFO -  Custom_code : Selected value from dropdown: value:Pittsburgh (052)
+06/26/2024 01:18:36 PM - INFO -  Custom_code : Element found with locator: dispatcherNameMain and  locatorType: id
+06/26/2024 01:18:36 PM - INFO -  Custom_code : Clicked on element with locator: dispatcherNameMain locatorType: id
+06/26/2024 01:18:41 PM - INFO -  Custom_code : Element found with locator: //*[@class='facilitySelectContainer']//span//button and  locatorType: xpath
+06/26/2024 01:18:41 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='facilitySelectContainer']//span//button locatorType: xpath
+06/26/2024 01:18:42 PM - INFO -  Custom_code : Selected value from dropdown: value:West Palm Beach (030)
+06/26/2024 01:24:43 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 01:24:43 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 01:24:43 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 01:24:43 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 01:24:43 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:24:43 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 01:24:44 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:24:44 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 01:24:44 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 01:24:44 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 01:24:47 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 01:24:47 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 01:25:29 PM - INFO -  Custom_code : Element found with locator: dispatcherNameMain and  locatorType: id
+06/26/2024 01:25:29 PM - INFO -  Custom_code : Clicked on element with locator: dispatcherNameMain locatorType: id
+06/26/2024 01:25:34 PM - INFO -  Custom_code : Element found with locator: //*[@class='facilitySelectContainer']//span//button and  locatorType: xpath
+06/26/2024 01:25:34 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='facilitySelectContainer']//span//button locatorType: xpath
+06/26/2024 01:25:34 PM - INFO -  Custom_code : Selected value from dropdown: value:Northern NJ (023)
+06/26/2024 01:30:59 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 01:30:59 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 01:31:03 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 01:31:03 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 01:35:52 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 01:35:52 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 01:35:55 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 01:35:55 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 01:35:59 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 01:35:59 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 01:36:01 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 01:36:01 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 01:36:01 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 01:36:01 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 01:36:01 PM - INFO -  Custom_code : Selected value from dropdown: value:Out For Delivery
+06/26/2024 01:36:01 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 01:36:02 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 01:36:02 PM - WARNING -  Custom_code : Cannot select value from dropdown: value:Delivered
+06/26/2024 01:36:02 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 01:36:02 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 01:36:02 PM - INFO -  Custom_code : Selected value from dropdown: value:Exception
+06/26/2024 01:36:35 PM - INFO -  Custom_code : Element found with locator: dispatcherNameMain and  locatorType: id
+06/26/2024 01:36:35 PM - INFO -  Custom_code : Clicked on element with locator: dispatcherNameMain locatorType: id
+06/26/2024 01:36:40 PM - INFO -  Custom_code : Element found with locator: //*[@class='facilitySelectContainer']//span//button and  locatorType: xpath
+06/26/2024 01:36:41 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='facilitySelectContainer']//span//button locatorType: xpath
+06/26/2024 01:36:41 PM - INFO -  Custom_code : Selected value from dropdown: value:Cleveland (085)
+06/26/2024 01:41:17 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 01:41:17 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 01:41:20 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 01:41:20 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 01:46:33 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 01:46:33 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 01:46:36 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 01:46:36 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 01:46:40 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 01:46:40 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 01:46:44 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 01:46:44 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 01:46:47 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 01:46:47 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 01:47:02 PM - INFO -  Custom_code : Selected value from dropdown: value:Exception
+06/26/2024 01:47:05 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 01:47:05 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 01:47:14 PM - INFO -  Custom_code : Selected value from dropdown: value:Delay due to weather or natural disaster
+06/26/2024 01:47:15 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 01:47:15 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 01:47:16 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'savePackageStatus')] and  locatorType: xpath
+06/26/2024 01:47:16 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'savePackageStatus')] locatorType: xpath
+06/26/2024 01:47:39 PM - WARNING -  Custom_code : Element not found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and locatorType: xpath
+06/26/2024 01:47:39 PM - INFO -  Custom_code : Cannot click on the element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 01:53:09 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 01:53:09 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 01:53:09 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 01:53:09 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 01:53:09 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:53:09 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 01:53:09 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 01:53:10 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 01:53:10 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 01:53:10 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 01:53:13 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 01:53:13 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 01:53:17 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 01:53:17 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 01:53:21 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 01:53:21 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 01:53:24 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 01:53:24 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 01:53:37 PM - INFO -  Custom_code : Selected value from dropdown: value:Attempt
+06/26/2024 01:53:40 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 01:53:40 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 01:53:48 PM - INFO -  Custom_code : Selected value from dropdown: value:Already Picked Up
+06/26/2024 01:53:49 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 01:53:49 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 01:53:50 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'savePackageStatus')] and  locatorType: xpath
+06/26/2024 01:53:50 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'savePackageStatus')] locatorType: xpath
+06/26/2024 01:54:13 PM - WARNING -  Custom_code : Element not found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and locatorType: xpath
+06/26/2024 01:54:13 PM - INFO -  Custom_code : Cannot click on the element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 02:00:16 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 02:00:16 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 02:00:19 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 02:00:19 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 02:00:25 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 02:00:25 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 02:00:29 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 02:00:29 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 02:00:32 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 02:00:32 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 02:00:41 PM - INFO -  Custom_code : Selected value from dropdown: value:Out For Delivery
+06/26/2024 02:00:41 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'savePackageStatus')] and  locatorType: xpath
+06/26/2024 02:00:41 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'savePackageStatus')] locatorType: xpath
+06/26/2024 02:00:45 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 02:00:45 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 02:00:49 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 02:00:50 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 02:00:54 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 02:00:54 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 02:00:57 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 02:00:57 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 02:01:10 PM - WARNING -  Custom_code : Cannot select value from dropdown: value:Attempt
+06/26/2024 02:01:13 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 02:01:33 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 02:07:52 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 02:07:52 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 02:07:55 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 02:07:55 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 02:08:01 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 02:08:01 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 02:08:05 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 02:08:05 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 02:08:08 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 02:08:09 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 02:08:18 PM - INFO -  Custom_code : Selected value from dropdown: value:Out For Delivery
+06/26/2024 02:08:18 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'savePackageStatus')] and  locatorType: xpath
+06/26/2024 02:08:18 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'savePackageStatus')] locatorType: xpath
+06/26/2024 02:08:21 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 02:08:21 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 02:08:25 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 02:08:26 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 02:08:30 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 02:08:30 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 02:08:33 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 02:08:33 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 02:08:46 PM - INFO -  Custom_code : Selected value from dropdown: value:Exception
+06/26/2024 02:08:49 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 02:08:50 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 02:08:58 PM - INFO -  Custom_code : Selected value from dropdown: value:Delay due to weather or natural disaster
+06/26/2024 02:08:59 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 02:08:59 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 02:09:00 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'savePackageStatus')] and  locatorType: xpath
+06/26/2024 02:09:00 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'savePackageStatus')] locatorType: xpath
+06/26/2024 02:09:03 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 02:09:03 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 02:20:17 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 02:20:17 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 02:20:20 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 02:20:20 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 02:27:15 PM - INFO -  Custom_code : Element found with locator: dispatcherNameMain and  locatorType: id
+06/26/2024 02:27:15 PM - INFO -  Custom_code : Clicked on element with locator: dispatcherNameMain locatorType: id
+06/26/2024 02:27:20 PM - INFO -  Custom_code : Element found with locator: //*[@class='facilitySelectContainer']//span//button and  locatorType: xpath
+06/26/2024 02:27:20 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='facilitySelectContainer']//span//button locatorType: xpath
+06/26/2024 02:27:20 PM - INFO -  Custom_code : Selected value from dropdown: value:Cleveland (085)
+06/26/2024 02:30:27 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 02:30:27 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 02:30:27 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 02:30:28 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 02:30:28 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:30:28 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 02:30:28 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:30:28 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 02:30:28 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 02:30:28 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 02:30:31 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 02:30:31 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 02:31:31 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 02:31:31 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 02:31:35 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 02:31:35 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 02:32:04 PM - INFO -  Custom_code : Element found with locator: dispatcherNameMain and  locatorType: id
+06/26/2024 02:32:04 PM - INFO -  Custom_code : Clicked on element with locator: dispatcherNameMain locatorType: id
+06/26/2024 02:32:09 PM - INFO -  Custom_code : Element found with locator: //*[@class='facilitySelectContainer']//span//button and  locatorType: xpath
+06/26/2024 02:32:10 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='facilitySelectContainer']//span//button locatorType: xpath
+06/26/2024 02:32:10 PM - INFO -  Custom_code : Selected value from dropdown: value:West Palm Beach (030)
+06/26/2024 02:35:32 PM - INFO -  Custom_code : Element found with locator: dispatcherNameMain and  locatorType: id
+06/26/2024 02:35:32 PM - INFO -  Custom_code : Clicked on element with locator: dispatcherNameMain locatorType: id
+06/26/2024 02:35:37 PM - INFO -  Custom_code : Element found with locator: //*[@class='facilitySelectContainer']//span//button and  locatorType: xpath
+06/26/2024 02:35:37 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='facilitySelectContainer']//span//button locatorType: xpath
+06/26/2024 02:35:37 PM - INFO -  Custom_code : Selected value from dropdown: value:West Palm Beach (030)
+06/26/2024 02:42:31 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 02:42:31 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 02:42:31 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 02:42:31 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 02:42:31 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:42:32 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 02:42:32 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:42:32 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 02:42:32 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 02:42:32 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 02:42:35 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 02:42:35 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 02:42:38 PM - INFO -  Custom_code : Element found with locator: //*[@id='AdvancedSearchGrid']//div[2]//table//tbody//tr//td[5]//a and  locatorType: xpath
+06/26/2024 02:42:38 PM - INFO -  Custom_code : Clicked on element with locator: //*[@id='AdvancedSearchGrid']//div[2]//table//tbody//tr//td[5]//a locatorType: xpath
+06/26/2024 02:42:41 PM - INFO -  Custom_code : Element found with locator: //div[@class='yellowText inline marT5'] and  locatorType: xpath
+06/26/2024 02:42:41 PM - INFO -  Custom_code : Element present with locator: //div[@class='yellowText inline marT5'] locatorType: xpath
+06/26/2024 02:42:41 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'routeWindowAssignContractor')] and  locatorType: xpath
+06/26/2024 02:42:41 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'routeWindowAssignContractor')] locatorType: xpath
+06/26/2024 02:42:44 PM - INFO -  Custom_code : Element found with locator: (//*[contains(@id, 'routeWindowContractorComplete')])[1] and  locatorType: xpath
+06/26/2024 02:42:44 PM - INFO -  Custom_code : Sent data on element with locator:(//*[contains(@id, 'routeWindowContractorComplete')])[1]locatorType:xpath
+06/26/2024 02:43:06 PM - WARNING -  Custom_code : Element not found with locator: windowRoute11125 and locatorType: id
+06/26/2024 02:43:06 PM - INFO -  Custom_code : Cannot click on the element with locator: windowRoute11125 locatorType: id
+06/26/2024 02:43:08 PM - INFO -  Custom_code : Element found with locator: //*[@aria-label='Close'] and  locatorType: xpath
+06/26/2024 02:43:08 PM - INFO -  Custom_code : Clicked on element with locator: //*[@aria-label='Close'] locatorType: xpath
+06/26/2024 02:43:14 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 02:43:14 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 02:55:55 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 02:55:55 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 02:55:58 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 02:55:58 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 02:56:02 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 02:56:02 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 03:13:46 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 03:13:46 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 03:13:49 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 03:13:49 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 03:13:53 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 03:13:53 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 03:13:58 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:13:58 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:14:01 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:14:02 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:14:11 PM - INFO -  Custom_code : Selected value from dropdown: value:Out For Pickup
+06/26/2024 03:14:14 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:14:14 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:14:14 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:14:34 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:14:37 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:14:37 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:14:48 PM - INFO -  Custom_code : Selected value from dropdown: value:Picked Up
+06/26/2024 03:14:51 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:14:51 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:14:51 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:15:11 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:15:14 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:15:15 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:15:22 PM - INFO -  Custom_code : Selected value from dropdown: value:Pickup
+06/26/2024 03:15:25 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:15:25 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:21:24 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 03:21:24 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 03:21:28 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 03:21:28 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 03:21:32 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 03:21:32 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 03:21:36 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:21:36 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:21:39 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:21:39 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:21:54 PM - INFO -  Custom_code : Selected value from dropdown: value:Exception
+06/26/2024 03:21:57 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:21:57 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:22:05 PM - INFO -  Custom_code : Selected value from dropdown: value:Delay due to weather or natural disaster
+06/26/2024 03:22:06 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:22:06 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:22:10 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:22:10 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:22:11 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:22:31 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:22:34 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:22:34 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:22:49 PM - INFO -  Custom_code : Selected value from dropdown: value:Exception
+06/26/2024 03:22:52 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:22:52 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:23:02 PM - INFO -  Custom_code : Selected value from dropdown: value:Delay in service due to external factors
+06/26/2024 03:23:03 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:23:03 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:23:07 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:23:07 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:23:07 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:23:27 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:23:30 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:23:31 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:23:46 PM - INFO -  Custom_code : Selected value from dropdown: value:Exception
+06/26/2024 03:23:49 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:23:49 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:24:01 PM - INFO -  Custom_code : Selected value from dropdown: value:Mechanical Breakdown Will Impact Delivery
+06/26/2024 03:24:02 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:24:02 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:24:06 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:24:06 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:30:05 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 03:30:05 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 03:30:08 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 03:30:08 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 03:30:12 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 03:30:12 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 03:30:16 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:30:16 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:30:19 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:30:19 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:30:32 PM - INFO -  Custom_code : Selected value from dropdown: value:Attempt
+06/26/2024 03:30:36 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:30:36 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:30:44 PM - INFO -  Custom_code : Selected value from dropdown: value:Already Picked Up
+06/26/2024 03:30:45 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:30:45 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:30:49 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:30:49 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:30:49 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:31:09 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:31:12 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:31:12 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:31:25 PM - INFO -  Custom_code : Selected value from dropdown: value:Attempt
+06/26/2024 03:31:28 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:31:28 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:31:39 PM - INFO -  Custom_code : Selected value from dropdown: value:Business Closed
+06/26/2024 03:31:40 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:31:40 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:31:44 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:31:44 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:31:44 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:32:04 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:32:07 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:32:07 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:32:20 PM - INFO -  Custom_code : Selected value from dropdown: value:Attempt
+06/26/2024 03:32:23 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:32:23 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:32:35 PM - INFO -  Custom_code : Selected value from dropdown: value:Customer Kept Return
+06/26/2024 03:32:36 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:32:36 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:32:41 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:32:41 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:32:41 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:33:01 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:33:04 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:33:04 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:33:17 PM - INFO -  Custom_code : Selected value from dropdown: value:Attempt
+06/26/2024 03:33:20 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:33:20 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:33:34 PM - INFO -  Custom_code : Selected value from dropdown: value:Need More Information
+06/26/2024 03:33:35 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:33:35 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:33:39 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:33:40 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:33:40 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:34:00 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:34:03 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:34:03 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:34:16 PM - INFO -  Custom_code : Selected value from dropdown: value:Attempt
+06/26/2024 03:34:19 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:34:19 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:34:35 PM - INFO -  Custom_code : Selected value from dropdown: value:Return unavailable for Pickup
+06/26/2024 03:34:36 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:34:36 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:34:40 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:34:40 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:34:40 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:35:00 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:35:03 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:35:04 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:35:17 PM - INFO -  Custom_code : Selected value from dropdown: value:Attempt
+06/26/2024 03:35:20 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:35:20 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:35:38 PM - INFO -  Custom_code : Selected value from dropdown: value:Secure Building No Access
+06/26/2024 03:35:39 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:35:39 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:35:43 PM - INFO -  Custom_code : Element found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and  locatorType: xpath
+06/26/2024 03:35:43 PM - INFO -  Custom_code : Clicked on element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:41:40 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 03:41:40 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 03:41:43 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 03:41:44 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 03:42:09 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 03:42:09 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 03:42:12 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 03:42:12 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 03:42:16 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 03:42:16 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 03:42:18 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:42:18 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:42:21 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:42:21 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:42:30 PM - INFO -  Custom_code : Selected value from dropdown: value:Out For Delivery
+06/26/2024 03:42:30 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'savePackageStatus')] and  locatorType: xpath
+06/26/2024 03:42:30 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'savePackageStatus')] locatorType: xpath
+06/26/2024 03:42:53 PM - WARNING -  Custom_code : Element not found with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] and locatorType: xpath
+06/26/2024 03:42:53 PM - INFO -  Custom_code : Cannot click on the element with locator: (//*[@id='confirmWindowClose']//div[2]//button)[2] locatorType: xpath
+06/26/2024 03:43:19 PM - WARNING -  Custom_code : Element not found with locator: //*[@class='fas fa-bars'] and locatorType: id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Cannot click on the element with locator: //*[@class='fas fa-bars'] locatorType: id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Element found with locator: aAdvancedSearchDashboardLink and  locatorType: id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Clicked on element with locator: aAdvancedSearchDashboardLink locatorType: id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Cleared field with locator:txtSearchTxt locatorType: id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Element found with locator: txtSearchTxt and  locatorType: id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Sent data on element with locator:txtSearchTxtlocatorType:id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Element found with locator: cbSearchAllFacilities and  locatorType: id
+06/26/2024 03:43:19 PM - INFO -  Custom_code : Clicked on element with locator: cbSearchAllFacilities locatorType: id
+06/26/2024 03:43:22 PM - INFO -  Custom_code : Element found with locator: btnAdvancedSearch and  locatorType: id
+06/26/2024 03:43:22 PM - INFO -  Custom_code : Clicked on element with locator: btnAdvancedSearch locatorType: id
+06/26/2024 03:43:26 PM - INFO -  Custom_code : Element found with locator: //*[@class='clickable viewPackageDetail'] and  locatorType: xpath
+06/26/2024 03:43:26 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='clickable viewPackageDetail'] locatorType: xpath
+06/26/2024 03:43:28 PM - INFO -  Custom_code : Element found with locator: //*[@class='fas fa-pencil-alt iconHover'] and  locatorType: xpath
+06/26/2024 03:43:28 PM - INFO -  Custom_code : Clicked on element with locator: //*[@class='fas fa-pencil-alt iconHover'] locatorType: xpath
+06/26/2024 03:43:31 PM - INFO -  Custom_code : Element found with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button and  locatorType: xpath
+06/26/2024 03:43:31 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@class, 'divEditPackageStatus updatePackageStatus')]//span//button locatorType: xpath
+06/26/2024 03:43:42 PM - INFO -  Custom_code : Selected value from dropdown: value:Attempt
+06/26/2024 03:43:45 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:43:45 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:43:54 PM - INFO -  Custom_code : Selected value from dropdown: value:Business Closed
+06/26/2024 03:43:55 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:43:55 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:43:59 PM - INFO -  Custom_code : Element found with locator: //input[contains(@id, 'EDDdatePicker')] and  locatorType: xpath
+06/26/2024 03:43:59 PM - INFO -  Custom_code : Clicked on element with locator: //input[contains(@id, 'EDDdatePicker')] locatorType: xpath
+06/26/2024 03:43:59 PM - INFO -  Custom_code : Element found with locator: //button[contains(@aria-controls, 'EDDdatePicker')] and  locatorType: xpath
+06/26/2024 03:43:59 PM - INFO -  Custom_code : Element present with locator: //button[contains(@aria-controls, 'EDDdatePicker')] locatorType: xpath
+06/26/2024 03:43:59 PM - INFO -  Custom_code : Element found with locator: //button[contains(@aria-controls, 'EDDdatePicker')] and  locatorType: xpath
+06/26/2024 03:43:59 PM - INFO -  Custom_code : Clicked on element with locator: //button[contains(@aria-controls, 'EDDdatePicker')] locatorType: xpath
+06/26/2024 03:44:02 PM - INFO -  Custom_code : Element found with locator: //button[contains(@aria-controls, 'EDDdatePicker')] and  locatorType: xpath
+06/26/2024 03:44:02 PM - INFO -  Custom_code : Clicked on element with locator: //button[contains(@aria-controls, 'EDDdatePicker')] locatorType: xpath
+06/26/2024 03:44:05 PM - INFO -  Custom_code : Element found with locator: //input[contains(@id, 'doorTag')] and  locatorType: xpath
+06/26/2024 03:44:05 PM - INFO -  Custom_code : Element present with locator: //input[contains(@id, 'doorTag')] locatorType: xpath
+06/26/2024 03:44:05 PM - INFO -  Custom_code : Element found with locator: //input[contains(@id, 'txtExceptionNote')] and  locatorType: xpath
+06/26/2024 03:44:05 PM - INFO -  Custom_code : Element present with locator: //input[contains(@id, 'txtExceptionNote')] locatorType: xpath
+06/26/2024 03:44:08 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:44:08 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:44:26 PM - WARNING -  Custom_code : Cannot select value from dropdown: value:Already Picked Up
+06/26/2024 03:44:27 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:44:27 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:44:31 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:44:31 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:44:41 PM - INFO -  Custom_code : Selected value from dropdown: value:Need More Information
+06/26/2024 03:44:42 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:44:42 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:44:46 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:44:47 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:44:59 PM - INFO -  Custom_code : Selected value from dropdown: value:Recipient refused as damaged
+06/26/2024 03:45:00 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:45:00 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:45:04 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:45:04 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:45:18 PM - INFO -  Custom_code : Selected value from dropdown: value:Recipient refused delivery
+06/26/2024 03:45:19 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:45:19 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:45:23 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:45:23 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:45:39 PM - INFO -  Custom_code : Selected value from dropdown: value:Secure Building No Access
+06/26/2024 03:45:40 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:45:40 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+06/26/2024 03:45:44 PM - INFO -  Custom_code : Element found with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button and  locatorType: xpath
+06/26/2024 03:45:44 PM - INFO -  Custom_code : Clicked on element with locator: //*[contains(@id, 'exceptionDetails')]//div//div/span[2]//button locatorType: xpath
+06/26/2024 03:46:02 PM - INFO -  Custom_code : Selected value from dropdown: value:Unable to Leave Parcel
+06/26/2024 03:46:04 PM - INFO -  Custom_code : Element found with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] and  locatorType: xpath
+06/26/2024 03:46:04 PM - INFO -  Custom_code : Clicked on element with locator: //span[contains(@id, 'spnExceptionDropDownLabel')] locatorType: xpath
+d : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 02:27:50 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 02:27:50 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 02:27:53 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 02:27:53 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 02:28:05 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Next Day Delivery
+06/26/2024 02:28:07 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 02:28:07 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 02:28:16 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 02:28:22 PM - INFO -  eos_facility_dashboard : Element found with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] and  locatorType: xpath
+06/26/2024 02:28:22 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] locatorType: xpath
+06/26/2024 02:28:35 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 02:28:35 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 02:28:45 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 02:28:45 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 02:28:48 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 02:28:48 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 02:29:24 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 02:29:28 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 02:29:28 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 02:29:29 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 02:29:29 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 02:29:31 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameDest and  locatorType: id
+06/26/2024 02:29:31 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameDestlocatorType:id
+06/26/2024 02:29:31 PM - INFO -  eos_facility_dashboard : Element found with locator: span[aria-controls='ddlPeRoute_listbox'] button and  locatorType: css
+06/26/2024 02:29:32 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: span[aria-controls='ddlPeRoute_listbox'] button locatorType: css
+06/26/2024 02:29:35 PM - INFO -  eos_facility_dashboard : Element found with locator: input[aria-controls='ddlPeRoute_listbox'] and  locatorType: css
+06/26/2024 02:29:35 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:input[aria-controls='ddlPeRoute_listbox']locatorType:css
+06/26/2024 02:29:48 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 02:29:48 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Element found with locator: // div[ @ id = 'Overage_Insert_Window'] and  locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Element present with locator: // div[ @ id = 'Overage_Insert_Window'] locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Element found with locator:  // input[ @ id = 'rbPkgEntryFtb'] and  locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Element present with locator:  // input[ @ id = 'rbPkgEntryFtb'] locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Element found with locator: //label[@id='lblMissortDestinationFacility'] and  locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Element present with locator: //label[@id='lblMissortDestinationFacility'] locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Element found with locator:  // input[ @ id = 'rbPkgEntryFtb'] and  locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Clicked on element with locator:  // input[ @ id = 'rbPkgEntryFtb'] locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Element found with locator: //button[@id='btnSubmitRtsFtb'] and  locatorType: xpath
+06/26/2024 02:29:50 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //button[@id='btnSubmitRtsFtb'] locatorType: xpath
+06/26/2024 02:29:52 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 02:29:52 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 02:32:15 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 02:32:15 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 02:32:25 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 02:32:25 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 02:32:27 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 02:32:27 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 02:33:21 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:ADP (M2000-51746)
+06/26/2024 02:33:23 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 02:33:23 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 02:33:25 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 02:33:25 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 02:33:28 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 02:33:28 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 02:33:36 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Next Day Delivery
+06/26/2024 02:33:38 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 02:33:38 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 02:33:47 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 02:33:53 PM - INFO -  eos_facility_dashboard : Element found with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] and  locatorType: xpath
+06/26/2024 02:33:53 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] locatorType: xpath
+06/26/2024 02:34:07 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 02:34:07 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 02:34:17 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 02:34:17 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 02:34:20 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 02:34:20 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 02:35:42 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 02:35:42 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 02:35:52 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 02:35:52 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 02:35:54 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 02:35:55 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 02:37:28 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 02:37:28 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 02:37:48 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element present with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element present with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element present with locator: btnPeCancel locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element found with locator: cbPeLockInitialForm and  locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element present with locator: cbPeLockInitialForm locatorType: id
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@src='/Content/images/package_future.png'] and  locatorType: xpath
+06/26/2024 02:37:48 PM - INFO -  eos_facility_dashboard : Element present with locator: //*[@src='/Content/images/package_future.png'] locatorType: xpath
+06/26/2024 02:38:08 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Package Entry')] and locatorType: xpath
+06/26/2024 02:38:08 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Package Entry')] locatorType: xpath
+06/26/2024 02:38:08 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@aria-controls='txtPeDeliveryDateFormTop_dateview'] and  locatorType: xpath
+06/26/2024 02:38:08 PM - INFO -  eos_facility_dashboard : Element present with locator: //*[@aria-controls='txtPeDeliveryDateFormTop_dateview'] locatorType: xpath
+06/26/2024 02:38:08 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 02:38:08 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 02:39:41 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:AMAZON NON SORT (51728)
+06/26/2024 02:39:43 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 02:39:43 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 02:39:45 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 02:39:45 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 02:39:47 PM - INFO -  eos_facility_dashboard : Element found with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] and  locatorType: xpath
+06/26/2024 02:39:47 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] locatorType: xpath
+06/26/2024 02:40:10 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 02:40:10 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 02:40:30 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 02:40:30 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 02:40:30 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 02:40:30 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 02:40:30 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 02:40:30 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 02:40:30 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 02:40:30 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 02:40:30 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 02:40:31 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 02:40:34 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 02:40:34 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 02:41:09 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 02:41:13 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 02:41:13 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 02:41:14 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 02:41:14 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 02:41:16 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameDest and  locatorType: id
+06/26/2024 02:41:16 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameDestlocatorType:id
+06/26/2024 02:41:23 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 02:41:23 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 02:41:45 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 02:41:45 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 02:42:05 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 02:42:05 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 02:42:06 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 02:42:06 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 02:43:43 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 02:43:43 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 02:44:03 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 02:44:03 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 02:44:03 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 02:44:03 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 02:45:03 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:ADVANCED CARE SOLUTIONS (M7034)
+06/26/2024 02:45:05 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 02:45:05 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 02:45:07 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 02:45:07 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 02:45:10 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 02:45:10 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 02:45:18 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Next Day Delivery
+06/26/2024 02:45:20 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 02:45:20 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 02:45:29 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 02:45:35 PM - INFO -  eos_facility_dashboard : Element found with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] and  locatorType: xpath
+06/26/2024 02:45:35 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] locatorType: xpath
+06/26/2024 02:45:58 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 02:45:58 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 02:46:18 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 02:46:18 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 02:46:18 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 02:46:18 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 02:46:18 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 02:46:18 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 02:46:18 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 02:46:19 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 02:46:19 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 02:46:19 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 02:46:22 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 02:46:22 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 02:46:57 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 02:47:01 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 02:47:01 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 02:47:02 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 02:47:02 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 02:47:04 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameDest and  locatorType: id
+06/26/2024 02:47:04 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameDestlocatorType:id
+06/26/2024 02:47:11 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 02:47:11 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 02:47:33 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 02:47:33 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 02:47:53 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 02:47:53 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 02:47:54 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 02:47:55 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 02:47:55 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 02:47:55 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 02:48:20 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 02:48:20 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 02:48:20 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 02:48:20 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 02:50:07 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 02:50:07 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 02:50:29 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 02:50:29 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 02:50:29 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 02:50:30 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 02:51:29 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:ADVANCED CARE SOLUTIONS (M7034)
+06/26/2024 02:51:32 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 02:51:32 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 02:51:35 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 02:51:35 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 02:51:43 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 02:51:43 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 02:51:54 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Pickup
+06/26/2024 02:51:56 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 02:51:56 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 02:52:06 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 02:52:12 PM - INFO -  eos_facility_dashboard : Element found with locator: //button[@data-buttonid='btnPeLookUpAddress'] and  locatorType: xpath
+06/26/2024 02:52:12 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //button[@data-buttonid='btnPeLookUpAddress'] locatorType: xpath
+06/26/2024 02:52:35 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 02:52:35 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 02:52:55 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 02:52:55 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 02:52:58 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 02:52:58 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 02:53:33 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 02:53:37 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 02:53:38 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 02:53:39 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 02:53:39 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 02:53:41 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameOrig and  locatorType: id
+06/26/2024 02:53:41 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameOriglocatorType:id
+06/26/2024 02:53:45 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 02:53:45 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 02:54:07 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 02:54:07 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 02:54:27 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 02:54:27 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 02:54:30 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 02:54:30 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 02:56:38 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 02:56:38 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 02:56:58 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element present with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element present with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element present with locator: btnPeCancel locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element found with locator: cbPeLockInitialForm and  locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element present with locator: cbPeLockInitialForm locatorType: id
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@src='/Content/images/package_future.png'] and  locatorType: xpath
+06/26/2024 02:56:58 PM - INFO -  eos_facility_dashboard : Element present with locator: //*[@src='/Content/images/package_future.png'] locatorType: xpath
+06/26/2024 02:57:18 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Package Entry')] and locatorType: xpath
+06/26/2024 02:57:18 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Package Entry')] locatorType: xpath
+06/26/2024 02:57:18 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@aria-controls='txtPeDeliveryDateFormTop_dateview'] and  locatorType: xpath
+06/26/2024 02:57:18 PM - INFO -  eos_facility_dashboard : Element present with locator: //*[@aria-controls='txtPeDeliveryDateFormTop_dateview'] locatorType: xpath
+06/26/2024 02:57:18 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 02:57:19 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 02:59:06 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 02:59:06 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 02:59:26 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 02:59:26 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 02:59:26 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:59:26 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 02:59:26 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 02:59:26 PM - INFO -  eos_facility_dashboard : Cleared field with locator:txtPeBarcodeFormTop locatorType: id
+06/26/2024 02:59:26 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 02:59:26 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeBarcodeFormToplocatorType:id
+06/26/2024 02:59:28 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 02:59:28 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 02:59:30 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 02:59:30 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 02:59:32 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:59:32 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 02:59:32 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:59:32 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 02:59:32 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 02:59:32 PM - INFO -  eos_facility_dashboard : Cleared field with locator:txtPeBarcodeFormTop locatorType: id
+06/26/2024 02:59:32 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 02:59:32 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeBarcodeFormToplocatorType:id
+06/26/2024 02:59:34 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 02:59:34 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 02:59:36 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 02:59:37 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 02:59:39 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:59:39 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 02:59:39 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:59:39 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 02:59:39 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 02:59:39 PM - INFO -  eos_facility_dashboard : Cleared field with locator:txtPeBarcodeFormTop locatorType: id
+06/26/2024 02:59:39 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 02:59:39 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeBarcodeFormToplocatorType:id
+06/26/2024 02:59:41 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 02:59:41 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 02:59:43 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 02:59:43 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 02:59:45 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:59:45 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 02:59:45 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 02:59:45 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 02:59:45 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 02:59:45 PM - INFO -  eos_facility_dashboard : Cleared field with locator:txtPeBarcodeFormTop locatorType: id
+06/26/2024 02:59:45 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 02:59:45 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeBarcodeFormToplocatorType:id
+06/26/2024 02:59:47 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 02:59:47 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 02:59:49 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 02:59:49 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 03:00:19 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 03:00:19 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 03:00:39 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 03:00:39 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 03:00:39 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 03:00:39 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 03:00:39 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 03:00:39 PM - INFO -  eos_facility_dashboard : Cleared field with locator:txtPeBarcodeFormTop locatorType: id
+06/26/2024 03:00:39 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 03:00:39 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeBarcodeFormToplocatorType:id
+06/26/2024 03:00:41 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 03:00:41 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 03:00:43 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 03:00:43 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 03:00:45 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 03:00:45 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 03:00:45 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 03:00:45 PM - INFO -  eos_facility_dashboard : Cleared field with locator:txtPeBarcodeFormTop locatorType: id
+06/26/2024 03:00:45 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 03:00:45 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeBarcodeFormToplocatorType:id
+06/26/2024 03:00:48 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 03:00:48 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 03:00:49 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 03:00:49 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 03:00:52 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 03:00:52 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 03:01:03 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Non-RTS Delivery
+06/26/2024 03:01:05 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 03:01:05 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 03:01:14 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 03:01:20 PM - INFO -  eos_facility_dashboard : Element found with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] and  locatorType: xpath
+06/26/2024 03:01:20 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] locatorType: xpath
+06/26/2024 03:01:43 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 03:01:43 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 03:02:03 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 03:02:03 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 03:02:03 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 03:02:03 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 03:02:03 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 03:02:03 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 03:02:03 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 03:02:04 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 03:02:04 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 03:02:04 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 03:02:07 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 03:02:07 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 03:02:42 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 03:02:46 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 03:02:46 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 03:02:47 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 03:02:47 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 03:02:49 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameDest and  locatorType: id
+06/26/2024 03:02:49 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameDestlocatorType:id
+06/26/2024 03:02:56 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 03:02:56 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 03:03:18 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 03:03:18 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 03:03:38 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 03:03:38 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 03:03:39 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 03:03:39 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 03:03:46 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 03:03:47 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 03:03:47 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 03:03:47 PM - INFO -  eos_facility_dashboard : Cleared field with locator:txtPeBarcodeFormTop locatorType: id
+06/26/2024 03:03:47 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 03:03:47 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeBarcodeFormToplocatorType:id
+06/26/2024 03:03:49 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 03:03:49 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 03:03:51 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 03:03:51 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 03:03:53 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeCancel and  locatorType: id
+06/26/2024 03:03:53 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeCancel locatorType: id
+06/26/2024 03:03:53 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 03:03:53 PM - INFO -  eos_facility_dashboard : Cleared field with locator:txtPeBarcodeFormTop locatorType: id
+06/26/2024 03:03:53 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeBarcodeFormTop and  locatorType: id
+06/26/2024 03:03:53 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeBarcodeFormToplocatorType:id
+06/26/2024 03:03:55 PM - INFO -  eos_facility_dashboard : Element found with locator: searchMapText and  locatorType: id
+06/26/2024 03:03:55 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: searchMapText locatorType: id
+06/26/2024 03:03:56 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 03:03:56 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 03:03:59 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 03:04:00 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 03:04:08 PM - WARNING -  eos_facility_dashboard : Cannot select value from dropdown: value:Non-RTS Delivery
+06/26/2024 03:04:10 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 03:04:10 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 03:04:20 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 03:04:26 PM - INFO -  eos_facility_dashboard : Element found with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] and  locatorType: xpath
+06/26/2024 03:04:26 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] locatorType: xpath
+06/26/2024 03:04:49 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 03:04:49 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 03:05:09 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 03:05:09 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 03:05:12 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 03:05:12 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 03:05:47 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 03:05:51 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 03:05:51 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 03:05:52 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 03:05:53 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 03:05:55 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameDest and  locatorType: id
+06/26/2024 03:05:55 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameDestlocatorType:id
+06/26/2024 03:06:02 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 03:06:02 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 03:06:24 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 03:06:24 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 03:06:44 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 03:06:44 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 03:06:45 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 03:06:45 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 03:07:17 PM - INFO -  eos_facility_dashboard : Element found with locator: //i[@class='fas fa-bars'] and  locatorType: xpath
+06/26/2024 03:07:17 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //i[@class='fas fa-bars'] locatorType: xpath
+06/26/2024 03:07:25 PM - INFO -  eos_facility_dashboard : Element found with locator: //ul[@id='leftSideContextMenu']/li[2]/span and  locatorType: xpath
+06/26/2024 03:07:25 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //ul[@id='leftSideContextMenu']/li[2]/span locatorType: xpath
+06/26/2024 03:08:00 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 03:08:00 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 03:08:20 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 03:08:20 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 03:08:20 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 03:08:20 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 03:09:20 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:ADVANCED CARE SOLUTIONS (M7034)
+06/26/2024 03:09:23 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 03:09:23 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 03:09:26 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 03:09:26 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 03:09:34 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 03:09:34 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 03:09:45 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Pickup
+06/26/2024 03:09:47 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 03:09:47 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 03:09:57 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 03:10:03 PM - INFO -  eos_facility_dashboard : Element found with locator: //button[@data-buttonid='btnPeLookUpAddress'] and  locatorType: xpath
+06/26/2024 03:10:03 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //button[@data-buttonid='btnPeLookUpAddress'] locatorType: xpath
+06/26/2024 03:10:26 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 03:10:26 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 03:10:46 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 03:10:46 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 03:10:49 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 03:10:49 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 03:11:24 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 03:11:28 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 03:11:28 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 03:11:29 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 03:11:29 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 03:11:31 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameOrig and  locatorType: id
+06/26/2024 03:11:32 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameOriglocatorType:id
+06/26/2024 03:11:36 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 03:11:36 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 03:11:58 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 03:11:58 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 03:12:18 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 03:12:18 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 03:12:21 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 03:12:21 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 03:15:53 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 03:15:53 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 03:16:14 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 03:16:14 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 03:16:14 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 03:16:14 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 03:17:13 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:ADVANCED CARE SOLUTIONS (M7034)
+06/26/2024 03:17:16 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 03:17:16 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 03:17:19 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 03:17:19 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 03:17:27 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 03:17:27 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 03:17:39 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Pickup
+06/26/2024 03:17:41 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 03:17:41 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 03:17:50 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 03:17:56 PM - INFO -  eos_facility_dashboard : Element found with locator: //button[@data-buttonid='btnPeLookUpAddress'] and  locatorType: xpath
+06/26/2024 03:17:56 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //button[@data-buttonid='btnPeLookUpAddress'] locatorType: xpath
+06/26/2024 03:18:19 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 03:18:19 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 03:18:39 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 03:18:39 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 03:18:42 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 03:18:42 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 03:19:18 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 03:19:22 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 03:19:22 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 03:19:23 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 03:19:23 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 03:19:25 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameOrig and  locatorType: id
+06/26/2024 03:19:25 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameOriglocatorType:id
+06/26/2024 03:19:29 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 03:19:29 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 03:19:51 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 03:19:51 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 03:20:11 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 03:20:11 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 03:20:14 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 03:20:14 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 03:24:31 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 03:24:31 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 03:24:54 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 03:24:54 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 03:24:54 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 03:24:54 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 03:25:54 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:ADVANCED CARE SOLUTIONS (M7034)
+06/26/2024 03:25:57 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 03:25:57 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 03:26:00 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 03:26:00 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 03:26:08 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button and  locatorType: xpath
+06/26/2024 03:26:08 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeService_listbox') and contains(@aria-controls, 'ddlPeService_listbox')]//button locatorType: xpath
+06/26/2024 03:26:19 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Pickup
+06/26/2024 03:26:21 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button and  locatorType: xpath
+06/26/2024 03:26:21 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPePackageType_listbox') and contains(@aria-controls, 'ddlPePackageType_listbox')]//button locatorType: xpath
+06/26/2024 03:26:30 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Box
+06/26/2024 03:26:36 PM - INFO -  eos_facility_dashboard : Element found with locator: //button[@data-buttonid='btnPeLookUpAddress'] and  locatorType: xpath
+06/26/2024 03:26:36 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //button[@data-buttonid='btnPeLookUpAddress'] locatorType: xpath
+06/26/2024 03:26:59 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 03:26:59 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 03:27:19 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 03:27:19 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 03:27:19 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 03:27:19 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 03:27:19 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 03:27:19 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 03:27:19 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 03:27:20 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 03:27:20 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 03:27:20 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 03:27:23 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 03:27:23 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 03:27:58 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 03:28:02 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 03:28:02 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 03:28:03 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 03:28:03 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 03:28:05 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameOrig and  locatorType: id
+06/26/2024 03:28:05 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameOriglocatorType:id
+06/26/2024 03:28:09 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 03:28:09 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 03:28:31 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 03:28:31 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 03:28:51 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 03:28:51 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 03:28:55 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 03:28:55 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id
+06/26/2024 03:36:16 PM - INFO -  eos_facility_dashboard : Element found with locator: liPackageEntryDashboardLink and  locatorType: id
+06/26/2024 03:36:17 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: liPackageEntryDashboardLink locatorType: id
+06/26/2024 03:36:39 PM - WARNING -  eos_facility_dashboard : Element not found with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span and locatorType: id
+06/26/2024 03:36:39 PM - INFO -  eos_facility_dashboard : Element not present with locator: //*[@id='divWrapper']/ul[1]/li[1]/div[1]/span locatorType: id
+06/26/2024 03:36:39 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button and  locatorType: xpath
+06/26/2024 03:36:39 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlPeCustomerFormTop_listbox') and contains(@aria-labelledby, 'ddlPeCustomerFormTop_label')]//button locatorType: xpath
+06/26/2024 03:38:15 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:AMAZON NON SORT (51728)
+06/26/2024 03:38:17 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeGenerateBarcode and  locatorType: id
+06/26/2024 03:38:17 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeGenerateBarcode locatorType: id
+06/26/2024 03:38:19 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeValidateFormTop and  locatorType: id
+06/26/2024 03:38:19 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeValidateFormTop locatorType: id
+06/26/2024 03:38:21 PM - INFO -  eos_facility_dashboard : Element found with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] and  locatorType: xpath
+06/26/2024 03:38:21 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: (//*[@data-buttonid='btnPeLookUpAddress'])[2] locatorType: xpath
+06/26/2024 03:38:44 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Facility')] and locatorType: xpath
+06/26/2024 03:38:44 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Facility')] locatorType: xpath
+06/26/2024 03:39:04 PM - WARNING -  eos_facility_dashboard : Element not found with locator: // a[contains(text(), 'Search for Addresses Near Zip')] and locatorType: xpath
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Element not present with locator: // a[contains(text(), 'Search for Addresses Near Zip')] locatorType: xpath
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressCancel and  locatorType: id
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubAddressCancel locatorType: id
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubClearAddress and  locatorType: id
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Element present with locator: btnScrubClearAddress locatorType: id
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubAddress and  locatorType: id
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubAddresslocatorType:id
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubCity and  locatorType: id
+06/26/2024 03:39:04 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubCitylocatorType:id
+06/26/2024 03:39:07 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button and  locatorType: xpath
+06/26/2024 03:39:07 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[contains(@aria-owns, 'ddlScrubState_listbox') and contains(@aria-controls, 'ddlScrubState_listbox')]//button locatorType: xpath
+06/26/2024 03:39:43 PM - INFO -  eos_facility_dashboard : Selected value from dropdown: value:Florida (FL)
+06/26/2024 03:39:47 PM - INFO -  eos_facility_dashboard : Element found with locator: txtScrubZip and  locatorType: id
+06/26/2024 03:39:47 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtScrubZiplocatorType:id
+06/26/2024 03:39:48 PM - INFO -  eos_facility_dashboard : Element found with locator: btnScrubAddressValidate and  locatorType: id
+06/26/2024 03:39:48 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnScrubAddressValidate locatorType: id
+06/26/2024 03:39:50 PM - INFO -  eos_facility_dashboard : Element found with locator: txtPeStopNameDest and  locatorType: id
+06/26/2024 03:39:50 PM - INFO -  eos_facility_dashboard : Sent data on element with locator:txtPeStopNameDestlocatorType:id
+06/26/2024 03:39:57 PM - INFO -  eos_facility_dashboard : Element found with locator: //*[@id='btnPeAddPackage'] and  locatorType: xpath
+06/26/2024 03:39:57 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: //*[@id='btnPeAddPackage'] locatorType: xpath
+06/26/2024 03:40:19 PM - WARNING -  eos_facility_dashboard : Element not found with locator: rbPkgEntryOvg and locatorType: id
+06/26/2024 03:40:19 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: rbPkgEntryOvg locatorType: id
+06/26/2024 03:40:39 PM - WARNING -  eos_facility_dashboard : Element not found with locator: btnSubmitRtsFtb and locatorType: id
+06/26/2024 03:40:39 PM - INFO -  eos_facility_dashboard : Cannot click on the element with locator: btnSubmitRtsFtb locatorType: id
+06/26/2024 03:40:40 PM - INFO -  eos_facility_dashboard : Element found with locator: btnPeSubmitPackage and  locatorType: id
+06/26/2024 03:40:40 PM - INFO -  eos_facility_dashboard : Clicked on element with locator: btnPeSubmitPackage locatorType: id

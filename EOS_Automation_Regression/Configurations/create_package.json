@@ -1,0 +1,184 @@
+{
+	"Route": "W952B",
+	"ServiceId": "2",
+	"CurrentUser": "eastETL",
+	"PackageId": 0,
+	"EDD": "2022-12-08",
+	"StatusCodeId": 1,
+	"OriginFacilityId": 24,
+	"DestinationFacilityId": 24,
+	"CustomerId": 298,
+	"PackageTypeId": "13",
+	"TransactionNumber": "OLSCY8X00011JSJ",
+	"OrderNumber": "OLSCY8X00011JSJ",
+	"CustomerOrderNumber": "128-7-38958254A",
+	"Barcode": "1LSCXNU0019236",
+	"CustomerWeight": 1,
+	"WeightUnitId": "1",
+	"CustomerWidth": 1,
+	"CustomerLength": 1,
+	"CustomerHeight": 1,
+	"DimensionalUnitId": "3",
+	"VolumeUnit": "5",
+	"OriginalReadyBy": "2022-11-02T22:15:00",
+	"OriginalDeliverBy": "2022-11-02T22:00:00",
+	"PackageDescription": "Something/Something Internet Sale",
+	"DeclaredValue": 1,
+	"DeclaredValueCurrencyTypeId": 1,
+	"CodValueCurrencyTypeId": 1,
+	"SignatureTypeId": "4",
+	"SignatureCaptureTypeId": 0,
+	"OrderFor": "Tom Sawyer",
+	"OrderedBy": "Tom Sawyer",
+	"CustomerRoute": "",
+	"CustomerSequence": "",
+	"ContractorNumber": null,
+	"PickupTypeId": 1,
+	"BillableStatus": 0,
+	"OrderedOn": "2022-11-02T20:16:59",
+	"CustomerFacilityId": 1,
+	"ContainerPackages": [],
+	"ContainerId": 0,
+	"Active": true,
+	"CreatedBy": "eastETL",
+	"UpdatedBy": "eastETL",
+	"OriginStopPoint": {
+		"StopPointId": 0,
+		"Active": true,
+		"StopPointName": "OriginStop",
+		"Organization": "Chris' Taverna",
+		"AttentionTo": "Shipping Dept",
+		"RmFlrDpt": "STE 1210",
+		"Phone": "(813) 514-2580",
+		"Email": "",
+		"Note": "API NOTES",
+		"StopLocation": {
+			"StopLocationId": 0,
+			"Cycle": 1,
+			"Area": "TPA716",
+			"Active": true,
+			"LocationTypeId": "1",
+			"Address": "23900 FISCAL CT",
+			"Address2": "",
+			"City": "WEST PALM BEACH",
+			"State": "FL",
+			"PostalCode": "33404-1720",
+			"TimeZone": "America/New_York",
+			"LocationQuality": 100,
+			"GeocodeQuality": 100,
+			"Coordinates": {
+				"Geography": {
+					"CoordinateSystemId": 4326,
+					"WellKnownText": "POINT(-80.097794 26.79613)"
+				}
+			}
+		}
+	},
+	"DestinationStopPoint": {
+		"StopPointId": 0,
+		"Active": true,
+		"StopPointName": "DestinationStop",
+		"Organization": "Four Seasons Resort Palm Beach",
+		"AttentionTo": "Mark Twain",
+		"RmFlrDpt": "",
+		"Phone": "(561) 215-7601",
+		"Email": "",
+		"Note": "DestinationStopPoint NOTE",
+		"StopLocation": {
+			"StopLocationId": 0,
+			"Cycle": 1,
+			"Area": "W952B",
+			"Active": true,
+			"LocationTypeId": "2",
+			"Address": "1 N Ocean Blvd",
+			"Address2": "",
+			"City": "Boca Raton",
+			"State": "FL",
+			"PostalCode": "33432-5155",
+			"TimeZone": "America/New_York",
+			"LocationQuality": 100,
+			"GeocodeQuality": 100,
+			"Coordinates": {
+				"Geography": {
+					"CoordinateSystemId": 4326,
+					"WellKnownText": "POINT(-80.07292 26.35089)"
+				}
+			}
+		}
+	},
+	"PackageAttributes": [
+		{
+			"PackageId": 0,
+			"AttributeTypeId": "30",
+			"AttributeValue": "NESSPTBG",
+			"CurrentUser": "eastETL"
+		},
+		{
+			"PackageId": 0,
+			"AttributeTypeId": "145",
+			"AttributeValue": "3",
+			"CurrentUser": "eastETL"
+		},
+		{
+			"PackageId": 0,
+			"AttributeTypeId": "146",
+			"AttributeValue": "1",
+			"CurrentUser": "eastETL"
+		},
+		{
+			"PackageId": 0,
+			"AttributeTypeId": "32",
+			"AttributeValue": "W952B",
+			"CurrentUser": "eastETL"
+		},
+		{
+			"PackageId": 0,
+			"AttributeTypeId": "148",
+			"AttributeValue": "Residence",
+			"CurrentUser": "eastETL"
+		},
+		{
+			"PackageId": 0,
+			"AttributeTypeId": "149",
+			"AttributeValue": 100,
+			"CurrentUser": "eastETL"
+		}
+	],
+	"References": [
+		{
+			"PackageId": 0,
+			"ReferenceTypeId": 6,
+			"Value": "128-7-38958254A",
+			"CurrentUser": "eastETL",
+			"Active": true
+		},
+		{
+			"PackageId": 0,
+			"ReferenceTypeId": 1,
+			"Value": "128-7-38958254A",
+			"CurrentUser": "eastETL",
+			"Active": true
+		},
+		{
+			"PackageId": 0,
+			"ReferenceTypeId": 6,
+			"Value": "128-7-38958254A",
+			"CurrentUser": "eastETL",
+			"Active": true
+		},
+		{
+			"PackageId": 0,
+			"ReferenceTypeId": 7,
+			"Value": "76801218",
+			"CurrentUser": "eastETL",
+			"Active": true
+		},
+		{
+			"PackageId": 0,
+			"ReferenceTypeId": 2,
+			"Value": "128-7-38958254A",
+			"CurrentUser": "eastETL",
+			"Active": true
+		}
+	]
+}

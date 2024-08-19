@@ -1,0 +1,13 @@
+{
+  "customer_name_for_alert" : "APPLE (M7211)",
+  "package_status_one" : "Delivered",
+  "drop_value_one" : "DOOR_PERSON",
+  "status_value_exception": "Exception",
+  "exception_value_removed_from_on_hold" : "Removed From On Hold",
+  "Except_value_Item_damaged_one" : "Item damaged and will be delivered",
+  "Exception_value_On_hold_at_lasership" : "On Hold at LaserShip",
+  "adv_search_hold_status"  : "On Hold",
+  "alert_resolve_action_type_Contractor_Notified" : "Contractor Notified",
+  "alert_resolve_result_Manual_Closeout" : "Manual Closeout Error (Internal Staff)",
+  "alert_notification_type_Event_After_Delivery" : "Event After Delivery"
+}

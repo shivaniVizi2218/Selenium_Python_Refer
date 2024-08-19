@@ -1,0 +1,7 @@
+{
+  "saved_settings_popup": "Settings Saved Successfully!",
+  "contractor_col_headings": ["Contractor Code","Name","CompanyName","Vendor Id","Type","Phone #", "Cell #","Assigned/Available","Packages","Delivered"],
+  "route_col_headings": ["Route","Assigned","Contractor ID#","Packages","Stops","Lock", "Type","Preferred Contractor"],
+  "route_excel_file_prefix": "RouteDashboard",
+  "route_excel_sheet": "Sheet1"
+}

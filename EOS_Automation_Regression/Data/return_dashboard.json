@@ -1,0 +1,17 @@
+{
+  "package_grid_status_value": "Returning",
+  "landing_page_dropdown_option" : "Returns Dashboard",
+  "saved_notification_text" : "Settings Saved Successfully!",
+  "retrun_dashboard_pallet_id_container_type" : "PALLET ID",
+  "return_dashboard_third_party_traking_container_type": "3RD PARTY TRACKING #",
+  "route_name_one": "022370",
+  "contractor_id_one" : "30107",
+  "package_window_status_attempt" : "Attempt",
+  "package_window_exception_value_one" : "Recipient refused as damaged",
+  "stop_name_one" : "RD_TC_0001",
+  "package_window_status_exeption": "Exception",
+  "package_window_exception_value_two": "Item damaged and will be returned",
+  "package_window_exception_value_three": "Exceeded max attempts, RTS",
+  "return_dash_board_print_grid_coloumn_headers"  : ["Barcode","Customer","Refer Number","Stop Name","Address","City","State","Zip","Description","Status","Exception","Created By","Created On","PalletId","3rd Party Tracking"],
+  "route_name_two": "401WESTA"
+}

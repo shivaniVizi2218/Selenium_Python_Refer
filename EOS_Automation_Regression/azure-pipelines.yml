@@ -1,0 +1,39 @@
+# Python package
+# Create and test a Python package on multiple Python versions.
+# Add steps that analyze code, save the dist with the build record, publish to a PyPI-compatible index, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/python
+
+trigger:
+  branches:
+    include:
+    - refs/heads/master
+name: $(date:yyyyMMdd)$(rev:.r)
+jobs:
+- job: Phase_1
+  displayName: Build and Test
+  condition: succeededOrFailed()
+  pool:
+    vmImage: windows-latest
+  steps:
+  - checkout: self
+    fetchDepth: 1
+    persistCredentials: True
+  - task: UsePythonVersion@0
+    displayName: Use Python $(python.version)
+    inputs:
+      versionSpec: 3.12.4
+  - task: CmdLine@2
+    displayName: Install dependencies
+    inputs:
+      script: python -m pip install --upgrade pip && pip install selenium && pip install pytest && pip install webdriver-manager && pip install pandas && pip install openpyxl && pip install pytest-html && pip install pyodbc
+  - task: CmdLine@2
+    displayName: pytest
+    continueOnError: true
+    inputs:
+      script: pytest .\Testcases\bolt_menu\test_405_testcase.py -s
+  - task: PublishPipelineArtifact@1
+    displayName: Publish Test Results JReports
+    inputs:
+      targetPath: '$(System.DefaultWorkingDirectory)/reports'
+      artifact: 'pytest_report'
+      publishLocation: 'pipeline'
